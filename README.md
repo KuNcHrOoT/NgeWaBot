@@ -1,2 +1,3 @@
-# SC-BOT-WA
-Subscribe Channel Hanbu FF
+# NgeBotWa
+
+# Cara Menggunkan:
